@@ -56,5 +56,5 @@ Spring MVC_사내 인트라넷 서비스
 
 ### 부록
 - [상세 설명 pdf 보기](https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf)
-- https://docs.google.com/viewer?url=https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf?raw=True
+- [pdf 링크](https://docs.google.com/viewer?url=https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf?raw=True)
 
