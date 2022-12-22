@@ -26,17 +26,17 @@ Spring MVC_사내 인트라넷 서비스
 - **기술** : Mybatis, ajax, Apache Commons API, JavaMail API, Thumbnailator API, openweathermap API 등
 
 
-## 기능
-### 기능도
+## 📌 설명
+### ✏️ 기능도
 
 
-### 실행 방법
+### ✏️ 실행 방법
 1. Code clone
 2. JSINC>src>main>webapp>WEB-INF>spring>appServlet>servlet-context.xml 파일 열기
 3. 41번 째 줄 소스코드에 workspace 경로 추가 : <beans:constructor-arg value = "(workspace path)\.metadata\.plugins\ ...">
 4. Run on Server (Apache Tomcat 9.0)
 
 
-### Login
+### ✏ Login
 - User (2233 / 111)
 - Manager (1 / master)
