@@ -14,7 +14,7 @@ Spring MVC_사내 인트라넷 서비스
 
 
 ### 👥 팀 구성 (3명)
-- 허성택 (팀장) - 프로젝트 제안, 기획, 웹 페이지 디자인, 기능 구현, 테스트, 발표
+- **허성택** (팀장) - 프로젝트 제안, 기획, 웹 페이지 디자인, 기능 구현, 테스트, 발표
 - 서ㅇㅇ (팀원) - 프로젝트 제안, 기획, 기능 구현, 테스트
 - 임ㅇㅇ (팀원) - 웹 페이지 디자인, 기능 구현, 테스트
 
@@ -31,11 +31,12 @@ Spring MVC_사내 인트라넷 서비스
 ---
 
 ## 📌 설명
-- [기능 상세 설명 참조](https://docs.google.com/viewer?url=https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf?raw=True)
 
 
 ### ✏️ 기능도
 <img src="https://user-images.githubusercontent.com/121115266/209166857-b30976b4-3fb9-4950-88b5-00fcd832c605.png" width="480" height="270">
+
+- [구현 기능 상세 설명](https://docs.google.com/viewer?url=https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf?raw=True)
 
 
 #### 🖱 담당 기능
