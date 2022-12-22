@@ -37,11 +37,8 @@ Spring MVC_사내 인트라넷 서비스
 <img src="https://user-images.githubusercontent.com/121115266/209166857-b30976b4-3fb9-4950-88b5-00fcd832c605.png" width="480" height="270">
 
 
-  #### 🖱 담당 기능
+   #### 🖱 담당 기능
   - **허성택** : 메인 화면 / Lock Screen / 로그인 / 프로필 / 출근&퇴근 / 주소록 / 스케줄 / 설문 / 관리자 서비스
-  https://docs.google.com/viewer?url=https://github.com/taek-project/JSINC/files/10288608/JSInc_report.pdf?raw=True
-  
-  
     - *[구현 기능 상세 설명](https://docs.google.com/viewer?url=https://github.com/taek-project/JSINC/files/10288608/JSInc_report.pdf?raw=True)*
 
   - 서ㅇㅇ : 메인 화면 / 회원가입 / 비밀번호 찾기
