@@ -60,6 +60,7 @@ Spring MVC_사내 인트라넷 서비스
 - User (2233 / 111)
 - Manager (1 / master)
 
+---
 
 ### 부록
 - [pdf 파일 다운로드](https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf)
