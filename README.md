@@ -25,15 +25,13 @@ Spring MVC_사내 인트라넷 서비스
 - **사용도구** : Apache Tomcat, Spring Tool Suite, BootStrap 등
 - **기술** : Mybatis, ajax, Apache Commons API, JavaMail API, Thumbnailator API, openweathermap API 등
 
-
-
-
-
-
+---
 
 ## 📌 설명
 ### ✏️ 기능도
 <img src="https://user-images.githubusercontent.com/121115266/209166857-b30976b4-3fb9-4950-88b5-00fcd832c605.png" width="480" height="270">
+
+
 ###### 담당 구현 기능
 - 허성택 : 메인 화면 / Lock Screen / 로그인 / 프로필 / 출근&퇴근 / 주소록 / 스케줄 / 설문 / 관리자 서비스
 - 서ㅇㅇ : 메인 화면 / 회원가입 / 비밀번호 찾기
