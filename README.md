@@ -52,3 +52,7 @@ Spring MVC_사내 인트라넷 서비스
 ### ✏ Login
 - User (2233 / 111)
 - Manager (1 / master)
+
+
+### 부록
+- 상세 설명 pdf 보기
