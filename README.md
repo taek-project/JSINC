@@ -1,5 +1,7 @@
 # JS.Inc Office
 > '자바 기반 웹 개발자 양성과정'의 국비지원 교육과정에서 수행한 최종 프로젝트.
+
+
 Spring MVC_사내 인트라넷 서비스
 
 
@@ -29,7 +31,7 @@ Spring MVC_사내 인트라넷 서비스
 ---
 
 ## 📌 설명
-- [기능 상세 보고서](https://docs.google.com/viewer?url=https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf?raw=True)
+- [기능 상세 설명 참조](https://docs.google.com/viewer?url=https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf?raw=True)
 
 
 ### ✏️ 기능도
@@ -59,6 +61,6 @@ Spring MVC_사내 인트라넷 서비스
 
 
 ### 부록
-- [보고서 파일 다운로드](https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf)
+- [pdf 파일 다운로드](https://github.com/taek-project/JSINC/files/10288310/JSInc_Office_._._._.pdf)
 
 
