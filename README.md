@@ -28,11 +28,12 @@ Spring MVC_사내 인트라넷 서비스
 
 ## 📌 설명
 ### ✏️ 기능도
-![KakaoTalk_Photo_2022-12-23-00-08-00](https://user-images.githubusercontent.com/121115266/209166857-b30976b4-3fb9-4950-88b5-00fcd832c605.png)
+<img src="https://user-images.githubusercontent.com/121115266/209166857-b30976b4-3fb9-4950-88b5-00fcd832c605.png" width="480" height="270">
+
 
 ### ✏️ 메인 화면
-<img src="https://user-images.githubusercontent.com/121115266/209167555-fe222af1-35ca-4b58-bb1a-6e0be2ea3926.png" width="400" height="200">
-![KakaoTalk_Photo_2022-12-23-00-28-12](https://user-images.githubusercontent.com/121115266/209167555-fe222af1-35ca-4b58-bb1a-6e0be2ea3926.png)
+<img src="https://user-images.githubusercontent.com/121115266/209167555-fe222af1-35ca-4b58-bb1a-6e0be2ea3926.png" width="480" height="270">
+
 
 ### ✏️ 실행 방법
 1. Code clone
